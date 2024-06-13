@@ -19,4 +19,6 @@ The functional requirements of the board are as follows:
 - Components must be placed only on the top layer
 - Total board thickness must be standard thickness (approximately 62 mils)
 
-Board dimensions will 
+Board dimensions will based on the dimensions of the Arduino UNO.
+
+These are the schematics;
