@@ -1,6 +1,6 @@
 # Power-Regulator-LED-Board
 
-After completing a PCB Design Course given by Alitum, we were given a project to go over to test our skills in PCB Design. 
+After completing a PCB Design Course provided by Altium, we were assigned a project to apply and test our skills in PCB Design.
 
 In this project, we will be creating a power regulator LED Board that will be place directly onto an Arduino UNO, and it is also known as shield board. This board will have 2 main functionalities: 
 - It will power a bank of LEDs
@@ -19,6 +19,7 @@ The functional requirements of the board are as follows:
 - Components must be placed only on the top layer
 - Total board thickness must be standard thickness (approximately 62 mils)
 
-Board dimensions will based on the dimensions of the Arduino UNO.
+Since the board will be mounted onto the Arduino UNO, its dimensions will be based on those of the UNO.
 
-These are the schematics;
+These are the schematics, made from Altium Designer's schematic editor:
+
