@@ -1,4 +1,4 @@
-# Power_Regulator + LED_Shield_PCB_for_Arduino_UNO
+# Power Regulator + LED Shield PCB for Arduino UNO
 
 After completing a PCB Design Course provided by Altium, we were assigned a project to apply and test our skills in PCB Design.
 
