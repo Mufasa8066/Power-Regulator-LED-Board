@@ -1,4 +1,4 @@
-# Power-Regulator-LED-Board
+# Power_Regulator + LED_Shield_PCB_for_Arduino_UNO
 
 After completing a PCB Design Course provided by Altium, we were assigned a project to apply and test our skills in PCB Design.
 
