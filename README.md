@@ -24,3 +24,4 @@ Since the board will be mounted onto the Arduino UNO, its dimensions will be bas
 These are the schematics, made from Altium Designer's schematic editor:
 <img width="513" alt="image" src="https://github.com/Mufasa8066/Power-Regulator-LED-Board/assets/124084701/861bda61-6cc1-4953-bd0b-20da9ca0d29c">
 
+Below is the finalized version of the PCB Layout:
