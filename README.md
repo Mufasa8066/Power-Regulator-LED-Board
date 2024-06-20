@@ -37,7 +37,6 @@ Below is the finalized 3d view of the board:
 
 <img width="515" alt="l" src="https://github.com/Mufasa8066/Power-Regulator-LED-Board/assets/124084701/8b44ca95-59f1-464d-b8fa-7827875a37c4">
 
-Ouptup Assembly files:
 
 
 
