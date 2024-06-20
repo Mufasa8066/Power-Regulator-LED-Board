@@ -25,10 +25,12 @@ These are the schematics, made from Altium Designer's schematic editor:
 <img width="513" alt="image" src="https://github.com/Mufasa8066/Power-Regulator-LED-Board/assets/124084701/861bda61-6cc1-4953-bd0b-20da9ca0d29c">
 
 Below is the finalized version of the PCB Layout:
+
 <img width="468" alt="W" src="https://github.com/Mufasa8066/Power-Regulator-LED-Board/assets/124084701/ac7ad3b4-6a0c-43c9-94fd-9eef09426d86">
 <img width="515" alt="S" src="https://github.com/Mufasa8066/Power-Regulator-LED-Board/assets/124084701/d4854151-cb0e-49ee-a182-b0f3d00de75c">
 
 Below is the finalized 3d view of the board:
+
 <img width="515" alt="l" src="https://github.com/Mufasa8066/Power-Regulator-LED-Board/assets/124084701/8b44ca95-59f1-464d-b8fa-7827875a37c4">
 
 Ouptup Assembly files:
