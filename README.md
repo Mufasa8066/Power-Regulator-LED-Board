@@ -1,10 +1,9 @@
 # Power Regulator + LED Shield PCB for Arduino UNO
 
-After completing a PCB Design Course provided by Altium, we were assigned a project to apply and test our skills in PCB Design.
+After completing a comprehensive PCB Design Course provided by Altium, we have been assigned a project to apply and test our skills in practical PCB Design. For this project, we will be creating a Power Regulator LED Shield Board specifically designed for an Arduino UNO. This shield board will serve two primary functions:
 
-In this project, we will be creating a power regulator LED Board that will be place directly onto an Arduino UNO, and it is also known as shield board. This board will have 2 main functionalities: 
-- It will power a bank of LEDs
-- It will provide power to an Arduino UNO
+1. **Powering a Bank of LEDs in Parallel:** The board will provide a stable power supply to a bank of LEDs connected in parallel, ensuring consistent brightness and performance.
+2. **Voltage Step-Down from 12V to 5V DC:** The board will include a voltage regulator circuit to step down the input voltage from 12V to 5V DC, supplying the necessary power to the Arduino UNO safely and efficiently.
 
 # Requirements
 The functional requirements of the board are as follows:
@@ -20,6 +19,8 @@ The functional requirements of the board are as follows:
 - Total board thickness must be standard thickness (approximately 62 mils)
 
 Since the board will be mounted onto the Arduino UNO, its dimensions will be based on those of the UNO.
+<img width="257" alt="image" src="https://github.com/Mufasa8066/Power-Regulator-LED-Board/assets/124084701/0262c669-6ec1-4f00-b4e2-86db8dbe03d6">
+
 
 # Design
 
