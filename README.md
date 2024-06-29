@@ -2,8 +2,7 @@
 
 After completing a comprehensive PCB Design Course provided by Altium, we have been assigned a project to apply and test our skills in practical PCB Design. For this project, we will be creating a Power Regulator LED Shield Board specifically designed for an Arduino UNO. This shield board will serve two primary functions:
 
-1.**Voltage Step-Down from 12V to 5V DC:** The board will include a voltage regulator circuit to step down the input voltage from 12V to 5V DC, supplying the necessary power to the Arduino UNO safely and efficiently.
-
+1. **Voltage Step-Down from 12V to 5V DC:** The board will include a voltage regulator circuit to step down the input voltage from 12V to 5V DC, supplying the necessary power to the Arduino UNO safely and efficiently.
 2. **Powering a Bank of LEDs in Parallel:** The board will provide a stable power supply to a bank of LEDs connected in parallel, ensuring consistent brightness and performance.
 
 # Requirements
